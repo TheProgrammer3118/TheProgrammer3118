@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheProgrammer3118
 - 👀 I’m interested in the field of Cybersecurity (Ethical hacking and penetration testing) and Web Development.
-- 🌱 I’m currently doing internship with PRODIGY INFOTECH.
+- 🌱 I’m currently doing internship with PRODIGY INFOTECH , Brainwave-Matrix_Solutions , Techno_Hacks.
 - 💞️ I’m currently doing B.C.A from S.C.D government college.
 - 📫 How to reach me :- you can contact me on this email id:- dhamrpreetsingh145@gmail.com 
 - 😄 Pronouns: ... He.
