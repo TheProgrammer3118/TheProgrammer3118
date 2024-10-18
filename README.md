@@ -1,4 +1,4 @@
-# 👋 Hi,I’m @TheProgrammer3118
+# 👋 Hi, I’m Dharmpreet Singh
 
 ## About Me
 I am a passionate technologist with a strong focus on the fields of **cybersecurity** and **web development**. My primary interests lie in ethical hacking and penetration testing, where I aim to contribute to creating secure digital environments. Currently, I am enhancing my skills through internships with **Prodigy Infotech**, **Brainwave Matrix Solutions**, and **Techno Hacks**. These experiences are invaluable as they allow me to apply theoretical knowledge in real-world scenarios, further developing my expertise.
